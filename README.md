@@ -20,5 +20,5 @@ A Python script to generate small, functional C++ programs in VS Code with minim
    Open your terminal and run:
    ```bash
    python3 code-generator.py
-3. **View the Result
+3. **View the Result**
    Your test.cpp file will now contain a complete code snippet replacing the keyword.
